@@ -21,10 +21,11 @@ to what I made needs to start from zero but can rather use whatever usefull bits
 My areas of interests are: 
 
 - ✈️ Sustainable Aviation
-- 💨 Aerodynamics 
+- ⚙️ Automation 
+- 💨 Aerodynamics & Wind Turbines 
 - 🌞 Solar Energy 
 - 🎹 Music 
-- ⚙️ Automation 
+
 
 so exepect anything realeated to these areas! My preferred programming Languages are Python, C# and M4L😊.
 Also don't expect to see a new project every week or tons of contributions to other projects as I am quite busy (at least for now) with my current job and sideprojects. And with that I welcome you to my GIT!😄
