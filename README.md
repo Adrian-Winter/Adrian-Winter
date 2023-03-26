@@ -1,6 +1,9 @@
 
 # Hello there! 👋
 
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-winter/)
+
+
 ##  🎢 About Me 
 
 I am Adrian, __currently__ studying the M.Sc Mechatronics at the TUHH and working on the HyPLANT100 project as a student assistant. 🔭
@@ -32,4 +35,6 @@ Also don't expect to see a new project every week or tons of contributions to ot
 
 ## 📪 Contact 
 
-On my profile you should find a email adress and my LinkedIn profile. 
+You can drop me a message on:
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-winter/)
