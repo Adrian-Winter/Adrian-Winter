@@ -6,11 +6,11 @@
 
 ##  🎢 About Me 
 
-I am Adrian, __currently__ studying the M.Sc Mechatronics at the TUHH and working at the Institute for Aircraft Transportation Systems as a student assistant. 🔭
+I am Adrian, __currently__ I am working on simulation environments for UAV inspection tasks at the DLR Insitute for solar research as part of my master thesis. 🌞 🔭
 
 __In the past__ I worked on projects such as creating augmented reality applications for industrial additive manufacturing, designing hydrogen powered drones, implementing a proximity formation flight system and creating a computer vision based gas leakage detection system.
 
-__In the future__ I would love to work on renewable energies🌞, sustainable aviation✈️ and be part of cradle-2-cradle🔄  and automation projects⚙️.
+__In the future__ I would love to work on renewable energies🌞, sustainable transportation🚲🚂✈️, music technologies🎹 and be part of cradle-2-cradle🔄  and automation projects⚙️.
 
 🌱 My philosophy is to never stop learning, automate anything that isn't fun, and embrace change.
 
@@ -23,7 +23,7 @@ to what I made needs to start from zero but can rather use whatever usefull bits
 
 My areas of interests are: 
 
-- ✈️ Sustainable Aviation
+- 🚦 Sustainable transportation
 - ⚙️ Automation 
 - 💨 Aerodynamics & Wind Turbines 
 - 🌞 Solar Energy 
