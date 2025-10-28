@@ -6,9 +6,9 @@
 
 ##  🎢 About Me 
 
-I am Adrian, __currently__ I am working on simulation environments for UAV inspection tasks at the DLR Insitute for solar research as part of my master thesis. 🌞 🔭
+I am Adrian, __currently__ I am working at the University of applied sciences in Hamburg, where we design and test fill level sensors for cyogenic liquids. 
 
-__In the past__ I worked on projects such as creating augmented reality applications for industrial additive manufacturing, designing hydrogen powered drones, implementing a proximity formation flight system and creating a computer vision based gas leakage detection system.
+__In the past__ I worked on projects such as creating augmented reality applications for industrial additive manufacturing, designing hydrogen powered drones and automated solar field inspection algorithms, implementing a proximity formation flight system and creating a computer vision based gas leakage detection system.
 
 __In the future__ I would love to work on renewable energies🌞, sustainable transportation🚲🚂✈️, music technologies🎹 and be part of cradle-2-cradle🔄  and automation projects⚙️.
 
